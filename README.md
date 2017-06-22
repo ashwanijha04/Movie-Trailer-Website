@@ -1,4 +1,4 @@
-# Udacity_movie_trailer_P1
+# udacityoMvieTrailerP1
 This repository contains a simple Python Project which displays some movies and their trailers when clicked.
 
 # Installation
@@ -26,13 +26,13 @@ To check if python is installed, you can use the following commands-
 # USAGE
 **MAC/LINUX:**
  1) Open a terminal and change directory to desktop using _cd Desktop_ command.
- 2) Clone the repository using: _git clone https://www.github.com/ashwanijha04/Udacity_movie_trailer_P1_
- 3) Now change to the folder just cloned: _cd Udacity_movie_trailer_P1_
+ 2) Clone the repository using: _git clone https://www.github.com/ashwanijha04/udacityMovieTrailerP1_
+ 3) Now change to the folder just cloned: _cd udacityMovieTrailerP1_
  3) Type the following command: _python entertainment_center.py_
  4) Done!
  
  **WINDOWS:**
-  1) Go to the project by clicking [here](https://www.github.com/ashwanijha04/Udacity_movie_trailer_P1) and clone/download using the user interface provided.
+  1) Go to the project by clicking [here](https://www.github.com/ashwanijha04/udacityMovieTrailerP1) and clone/download using the user interface provided.
   2) Extract the folder and open entertainment_center.py in the idle text editor provided by python.
   3) Run the module.
   4) Done

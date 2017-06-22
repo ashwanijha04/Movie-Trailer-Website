@@ -2,7 +2,7 @@
 This repository contains a simple Python Project which displays some movies and their trailers when clicked.
 
 # Installation
-Make sure you have python 2.7 installed in your computer.
+Make sure you have **python 2.7** installed in your computer.
 To check if python is installed, you can use the following commands-  
 
 **WINDOWS-** 

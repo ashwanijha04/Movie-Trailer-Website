@@ -16,7 +16,7 @@ To check if python is installed, you can use the following commands-
  
  2) If Python is not installed, install Xcode from the App store.
  3) Go to step 1.
- 4) Download Python from https://www.python.org/downloads/mac-osx/ and install it.
+ 4) [Download](https://www.python.org/downloads/mac-osx/) Python and install it.
  5) Go to step 1.
  
 **LINUX-**

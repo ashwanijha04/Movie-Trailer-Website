@@ -33,12 +33,15 @@ wget https://www.python.org/ftp/python/$version/Python-$version.tgz
 Extract and go to the directory:
 
 tar -xvf Python-$version.tgz
+
 cd Python-$version
+
 Now, install using the command you just tried, using checkinstall instead to make it easier to uninstall if needed:
 
 _./configure
 make
 sudo checkinstall_
+
 Change version to whichever version you need (version=2.7.1 or version=3.6.0, for example).
 
 # USAGE

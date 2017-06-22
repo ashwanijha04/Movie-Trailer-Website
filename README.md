@@ -42,10 +42,15 @@ sudo checkinstall
 Change version to whichever version you need (version=2.7.1 or version=3.6.0, for example).
 
 # USAGE
+MAC/LINUX:
  1) Open a terminal and change directory to desktop using 'cd Desktop' command.
  2) Clone the repository using git clone https://www.github.com/ashwanijha04/Udacity_movie_trailer_P1
  3) Now change to the folder just cloned 'cd Udacity_movie_trailer_P1'.
  3) Type the following command - 'python entertainment_center.py'.
  4) Done!
  
- 
+ WINDOWS:
+  1) Go to https://www.github.com/ashwanijha04/Udacity_movie_trailer_P1 and clone/download using the user interface provided.
+  2) Extract the folder and open entertainment_center.py in the idle text editor provided by python.
+  3) Run the module.
+  4) Done

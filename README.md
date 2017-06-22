@@ -1,4 +1,4 @@
-# udacityoMvieTrailerP1
+# udacityMovieTrailerP1
 This repository contains a simple Python Project which displays some movies and their trailers when clicked.
 
 # Installation

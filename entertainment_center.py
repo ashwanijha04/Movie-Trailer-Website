@@ -28,4 +28,3 @@ now_you_see_me = media.Movie("Now you see me",
 
 movies = [logan, gravity, gameofthrones, breaking_bad, friends, now_you_see_me ]
 fresh_tomatoes.open_movies_page(movies)
-print (media.Movie.VALID_RATINGS)

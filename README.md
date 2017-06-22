@@ -50,7 +50,7 @@ Change version to whichever version you need (version=2.7.1 or version=3.6.0, fo
  4) Done!
  
  **WINDOWS:**
-  1) Go to https://www.github.com/ashwanijha04/Udacity_movie_trailer_P1 and clone/download using the user interface provided.
+  1) Go to the project by clicking [here](https://www.github.com/ashwanijha04/Udacity_movie_trailer_P1) and clone/download using the user interface provided.
   2) Extract the folder and open entertainment_center.py in the idle text editor provided by python.
   3) Run the module.
   4) Done

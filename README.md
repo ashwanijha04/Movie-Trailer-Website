@@ -21,29 +21,7 @@ To check if python is installed, you can use the following commands-
  
 **LINUX-**
 
-First, install some dependencies:
-
-*sudo apt-get install build-essential checkinstall
-*sudo apt-get install libreadline-gplv2-dev libncursesw5-dev libssl-dev libsqlite3-dev tk-dev libgdbm-dev libc6-dev libbz2-dev
-Then download using the following command:
-
-*version=2.7.13
-*cd ~/Downloads/
-*wget https://www.python.org/ftp/python/$version/Python-$version.tgz
-
-Extract and go to the directory:
-
-*tar -xvf Python-$version.tgz
-
-*cd Python-$version
-
-Now, install using the command you just tried, using checkinstall instead to make it easier to uninstall if needed:
-
-*_./configure
-*make
-*sudo checkinstall_
-
-Change version to whichever version you need (version=2.7.1 or version=3.6.0, for example).
+ Follow the guidelines given [here](https://askubuntu.com/questions/101591/how-do-i-install-the-latest-python-2-7-x-or-3-x-on-ubuntu) to install python on Ubuntu.
 
 # USAGE
 **MAC/LINUX:**

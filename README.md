@@ -26,9 +26,9 @@ To check if python is installed, you can use the following commands-
 # USAGE
 **MAC/LINUX:**
  1) Open a terminal and change directory to desktop using _cd Desktop_ command.
- 2) Clone the repository using _git clone https://www.github.com/ashwanijha04/Udacity_movie_trailer_P1_
- 3) Now change to the folder just cloned _cd Udacity_movie_trailer_P1_
- 3) Type the following command - _python entertainment_center.py_
+ 2) Clone the repository using: _git clone https://www.github.com/ashwanijha04/Udacity_movie_trailer_P1_
+ 3) Now change to the folder just cloned: _cd Udacity_movie_trailer_P1_
+ 3) Type the following command: _python entertainment_center.py_
  4) Done!
  
  **WINDOWS:**

@@ -8,7 +8,7 @@ logan = media.Movie(
     "Logan",
     "Story of wolverine and the mutants"
     "with special abilities.",
-	"https://www.flickeringmyth.com/wp-content/uploads/2017/01/ logan-movie-poster.png",  # NOQA
+	"https://www.flickeringmyth.com/wp-content/uploads/2017/01/logan-movie-poster.png",  # NOQA
     "https://www.youtube.com/watch?v=Div0iP65aZo"
     )
 
